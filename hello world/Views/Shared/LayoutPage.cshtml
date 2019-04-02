@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <img src="~/Content/slika.jpg" />
+    <div>
+        <a href="Stranica1">Stranica 1</a> | <a href="Stranica2">Stranica 2</a>
+    </div>
+    <div>
+        @RenderBody()
+    </div>
+    <div>
+        @RenderSection("Detalji",false)
+    </div>
+</body>
+</html>
