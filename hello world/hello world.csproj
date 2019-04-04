@@ -146,10 +146,13 @@
     <Compile Include="Controllers\LayOutSectionController.cs" />
     <Compile Include="Controllers\Osoba.cs" />
     <Compile Include="Controllers\OsobaController.cs" />
+    <Compile Include="Controllers\TemplHtmlHelperiController.cs" />
     <Compile Include="fonts\Osoba.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Adresa.cs" />
+    <Compile Include="Models\OsobaTempt.cs" />
     <Compile Include="Models\SimpleBindController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -194,6 +197,7 @@
     <Content Include="Views\LayOutSection\Stranica2.cshtml" />
     <Content Include="Views\LayOutSection\Stranica1.cshtml" />
     <Content Include="Views\Shared\LayoutPage.cshtml" />
+    <Content Include="Views\TemplHtmlHelperi\HtmlEditorView.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
