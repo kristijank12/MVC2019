@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validacije", "Validacije\Va
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ado_net_spajanje_na_bazu", "ado_net_spajanje_na_bazu\ado_net_spajanje_na_bazu.csproj", "{E9F9F7C6-A89A-4422-A750-623A2FB8377C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adresar", "Adresar\Adresar.csproj", "{ECDA521A-24FF-40FA-A779-2314F1589787}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webshop", "Webshop\Webshop.csproj", "{94F6DD3A-B77B-402A-A0F1-C60254C041DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{E9F9F7C6-A89A-4422-A750-623A2FB8377C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9F9F7C6-A89A-4422-A750-623A2FB8377C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9F9F7C6-A89A-4422-A750-623A2FB8377C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECDA521A-24FF-40FA-A779-2314F1589787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDA521A-24FF-40FA-A779-2314F1589787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDA521A-24FF-40FA-A779-2314F1589787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDA521A-24FF-40FA-A779-2314F1589787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94F6DD3A-B77B-402A-A0F1-C60254C041DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F6DD3A-B77B-402A-A0F1-C60254C041DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F6DD3A-B77B-402A-A0F1-C60254C041DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F6DD3A-B77B-402A-A0F1-C60254C041DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
